@@ -1,0 +1,9 @@
+
+Machine Learning Fundamentals
+
+Machine learning is a subset of artificial intelligence that enables systems to learn from experience.
+Deep Learning uses neural networks with multiple layers to learn complex patterns.
+Supervised Learning involves training on labeled data.
+Unsupervised Learning finds patterns in unlabeled data.
+Reinforcement Learning maximizes rewards through trial and error.
+    

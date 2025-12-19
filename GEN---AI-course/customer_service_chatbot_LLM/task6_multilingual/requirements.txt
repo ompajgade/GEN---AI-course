@@ -1,0 +1,23 @@
+# Task 6: Multi-Lingual Support
+# Dependencies for language detection and translation
+
+# Language Detection
+langdetect==1.0.9
+
+# Translation and NLP
+transformers==4.37.2
+torch==2.1.2
+
+# Data Processing
+pandas==2.2.0
+numpy==1.26.3
+
+# Utilities
+python-dotenv==1.0.0
+
+# Evaluation
+scikit-learn==1.4.0
+
+# Testing
+pytest==8.0.0
+hypothesis==6.98.3

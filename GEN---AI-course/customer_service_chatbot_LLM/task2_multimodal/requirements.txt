@@ -1,0 +1,21 @@
+# Multi-Modal Chatbot (Task 2) Requirements
+# Core dependencies for text and image processing with Gemini AI
+
+# Google AI Integration
+google-generativeai>=0.3.0
+
+# Vector Database
+chromadb>=0.4.0
+
+# Image Processing
+Pillow==10.2.0
+
+# Embeddings
+sentence-transformers==2.3.1
+transformers==4.37.2
+torch==2.1.2
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0
+numpy==1.26.3

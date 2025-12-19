@@ -1,0 +1,100 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# Environment Variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files (IMPORTANT: Exclude large datasets)
+data/
+*/data/
+*/*/data/
+customer_service_chatbot_LLM/data/
+customer_service_chatbot_LLM/*/data/
+customer_service_chatbot_LLM/*/*/data/
+
+# Vector databases (large files)
+vector_db/
+*/vector_db/
+*/*/vector_db/
+customer_service_chatbot_LLM/*/vector_db/
+
+# Model files (large files)
+*.bin
+*.pt
+*.pth
+*.h5
+*.pkl
+*.ckpt
+models/
+*/models/
+*/*/models/
+
+# Dataset files
+*.json
+*.csv
+*.xml
+!requirements.txt
+!package.json
+
+# Cache files
+.pytest_cache/
+.hypothesis/
+.cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Evaluation results (keep structure but not large result files)
+evaluation_results/*.json
+*/evaluation_results/*.json
+*/*/evaluation_results/*.json
+!evaluation_results/.gitkeep

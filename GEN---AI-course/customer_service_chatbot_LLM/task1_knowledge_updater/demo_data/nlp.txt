@@ -1,0 +1,8 @@
+
+Natural Language Processing
+
+NLP helps computers understand and manipulate human language.
+Text Classification assigns categories to text based on content.
+Named Entity Recognition identifies entities like names, places, and organizations.
+Sentiment Analysis determines emotional tone in text.
+    

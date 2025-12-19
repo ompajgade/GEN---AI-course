@@ -1,0 +1,22 @@
+# Task 5: Sentiment Analysis Integration
+# Dependencies for sentiment detection and analysis
+
+# Transformers for sentiment models
+transformers==4.37.2
+torch==2.1.2
+
+# Data Processing
+pandas==2.2.0
+numpy==1.26.3
+
+# Utilities
+python-dotenv==1.0.0
+
+# Evaluation
+scikit-learn==1.4.0
+matplotlib==3.8.2
+seaborn==0.13.2
+
+# Testing
+pytest==8.0.0
+hypothesis==6.98.3
